@@ -13,8 +13,7 @@ Cualquiera puede abordar o solicitar un diseño, ¡siempre que esté relacionado
 Plantilla de problema:
 
 ## Plantilla de Issue: 
-
-
+```
 ## Meta:
 [Lo que te gustaría crear]
 
@@ -29,5 +28,5 @@ Plantilla de problema:
 
 ## Etiqueta:
 [Logo, ILustración, Banner, entre otras si no sabes puedes dejar palabras claves]
-
+```
 Nota: Debido a la forma en que los permisos funcionan en github, no te compliques coloca palabras claves.
