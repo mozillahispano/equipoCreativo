@@ -15,10 +15,10 @@
    version="1.1"
    id="svg8"
    inkscape:version="0.92.2 (unknown)"
-   sodipodi:docname="logoMozHispano.svg"
-   inkscape:export-filename="/media/keik/Datos/MAS DIVERSION/Mozilla Firefox/MozHispano/logoMozHispano.png"
-   inkscape:export-xdpi="100"
-   inkscape:export-ydpi="100">
+   sodipodi:docname="MozillaHispano_LogoConGeeko.svg"
+   inkscape:export-filename="/media/keik/Datos/MAS DIVERSION/Mozilla Firefox/EquipoCreativo/equipoCreativo/LogoMozillaHispano/MozillaHispano_LogoConGeeko.png"
+   inkscape:export-xdpi="199.93044"
+   inkscape:export-ydpi="199.93044">
   <title
      id="title1691">Logo Oficial de Mozilla Hispano</title>
   <defs
@@ -30,9 +30,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.81746032"
-     inkscape:cx="441"
-     inkscape:cy="230"
+     inkscape:zoom="1.5983837"
+     inkscape:cx="545.076"
+     inkscape:cy="182.868"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -192,6 +192,15 @@
      inkscape:groupmode="layer"
      id="layer1"
      transform="translate(-0.05793216,-175.29159)">
+    <rect
+       style="opacity:1;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.70520157;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:stroke markers fill"
+       id="rect972"
+       width="105.81331"
+       height="28.68182"
+       x="96.138748"
+       y="237.74516"
+       rx="0.31677774"
+       ry="0.25792682" />
     <g
        aria-label="hispano"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:112.53897095px;line-height:2.25;font-family:'Zilla Slab Highlight';-inkscape-font-specification:'Zilla Slab Highlight';text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#959595;fill-opacity:1;stroke:none;stroke-width:6.02887392"
@@ -401,11 +410,7 @@
       <g
          id="text896-4-0"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:19.75555611px;line-height:26.45833397px;font-family:'Zilla Slab Highlight';-inkscape-font-specification:'Zilla Slab Highlight';text-align:end;letter-spacing:0px;word-spacing:0px;text-anchor:end;fill:#000000;fill-opacity:1;stroke:none;stroke-width:2.23582697"
-         aria-label="Logo oficial Mozilla Hispano:
-Realizado en el Equipo Creativo Mozilla Hispano
-por Karla L Hernández de Mozilla El Salvador
-
-">
+         aria-label="Logo oficial Mozilla Hispano: Realizado en el Equipo Creativo Mozilla Hispano por Karla L Hernández de Mozilla El Salvador  ">
         <path
            id="path1018"
            style="font-style:italic;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:19.75555611px;line-height:26.45833397px;font-family:'Zilla Slab';-inkscape-font-specification:'Zilla Slab Bold Italic';text-align:end;text-anchor:end;stroke-width:2.23582697"
